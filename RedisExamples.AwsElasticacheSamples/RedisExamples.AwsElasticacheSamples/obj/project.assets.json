@@ -69,7 +69,7 @@
           "lib/netcoreapp3.1/Pipelines.Sockets.Unofficial.dll": {}
         }
       },
-      "StackExchange.Redis/2.2.62": {
+      "StackExchange.Redis/2.2.50": {
         "type": "package",
         "dependencies": {
           "Pipelines.Sockets.Unofficial": "2.2.0",
@@ -380,10 +380,10 @@
         "pipelines.sockets.unofficial.nuspec"
       ]
     },
-    "StackExchange.Redis/2.2.62": {
-      "sha512": "rcIFo/dK67An3mO1Heov0GZj9TYLMd+YB4drA09vOQz9ZpdjMhxSVtlDATcGpC++EH0aUGGnRnzhq0R0oXBOXg==",
+    "StackExchange.Redis/2.2.50": {
+      "sha512": "jss1e27GaoI9efYtI+ZVGm2+QYKjFr92n/Jdjs4NY2jf/fFsu8lCNfaZ6tsR5nc5u67htNSRlyNkxFBuD8NVTA==",
       "type": "package",
-      "path": "stackexchange.redis/2.2.62",
+      "path": "stackexchange.redis/2.2.50",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -397,7 +397,7 @@
         "lib/netcoreapp3.1/StackExchange.Redis.xml",
         "lib/netstandard2.0/StackExchange.Redis.dll",
         "lib/netstandard2.0/StackExchange.Redis.xml",
-        "stackexchange.redis.2.2.62.nupkg.sha512",
+        "stackexchange.redis.2.2.50.nupkg.sha512",
         "stackexchange.redis.nuspec"
       ]
     },
@@ -757,7 +757,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "StackExchange.Redis >= 2.2.62",
       "StackExchange.Redis.Extensions.Core >= 7.1.1"
     ]
   },
@@ -808,10 +807,6 @@
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
-          "StackExchange.Redis": {
-            "target": "Package",
-            "version": "[2.2.62, )"
-          },
           "StackExchange.Redis.Extensions.Core": {
             "target": "Package",
             "version": "[7.1.1, )"

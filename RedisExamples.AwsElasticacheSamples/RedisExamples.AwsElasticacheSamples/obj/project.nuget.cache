@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "df7bzSGbbFFtvZWJb5DxmpbGfObD68Z9ErkHj91S6ELJ/1MvUysbXi0Flxah34QrKU/3x02oa85eeRUdqNKWGg==",
+  "dgSpecHash": "johzOFtKXIaOSV84SiXbLKthkieX/Y6aUaT9erkFpfi1Wn2m6DZDXrSQh5g7JFN78wHXKkcHDOaNLFsU5yh14g==",
   "success": true,
   "projectFilePath": "W:\\proj\\dev-stack\\redis\\redis-samples\\RedisExamples.AwsElasticacheSamples\\RedisExamples.AwsElasticacheSamples\\RedisExamples.AwsElasticacheSamples.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,7 @@
     "C:\\Users\\Architect\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Architect\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\Architect\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.0\\pipelines.sockets.unofficial.2.2.0.nupkg.sha512",
-    "C:\\Users\\Architect\\.nuget\\packages\\stackexchange.redis\\2.2.62\\stackexchange.redis.2.2.62.nupkg.sha512",
+    "C:\\Users\\Architect\\.nuget\\packages\\stackexchange.redis\\2.2.50\\stackexchange.redis.2.2.50.nupkg.sha512",
     "C:\\Users\\Architect\\.nuget\\packages\\stackexchange.redis.extensions.core\\7.1.1\\stackexchange.redis.extensions.core.7.1.1.nupkg.sha512",
     "C:\\Users\\Architect\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
     "C:\\Users\\Architect\\.nuget\\packages\\system.diagnostics.performancecounter\\5.0.0\\system.diagnostics.performancecounter.5.0.0.nupkg.sha512",

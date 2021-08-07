@@ -14,7 +14,10 @@ namespace RedisExamples.AwsElasticacheSamples
                 AbortOnConnectFail = false
                 //ConnectTimeout = 20000
             };
-            option.EndPoints.Add("vehiclehub-cbb-redis.flijwf.ng.0001.cac1.cache.amazonaws.com:6379");
+            //vehiclehub-cbb-redis.flijwf.ng.0001.cac1.cache.amazonaws.com:6379
+            //localhost:6379
+
+            option.EndPoints.Add("localhost:6379");
             return ConnectionMultiplexer.Connect(option, log);
         });
 
